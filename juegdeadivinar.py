@@ -20,3 +20,5 @@ def adivinar(num):
         comparar(numero, opcion)
 
         hola
+
+        adios
