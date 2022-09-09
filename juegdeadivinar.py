@@ -18,3 +18,5 @@ def adivinar(num):
     while opcion != numero:
         opcion = int(input("Elige un número del 1 al 100"))
         comparar(numero, opcion)
+
+        hola
